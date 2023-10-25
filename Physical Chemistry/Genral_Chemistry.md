@@ -1,6 +1,6 @@
 # Some Basics Concepts of Chemistry
 
-- Contents
+
 
 ## Importance of Chemistry
 
@@ -37,8 +37,7 @@ S--->|Sublimation| G---> |Deposition|S
 
 At the macroscopic or bulk level, matter can be classified in as ****************mixture**************** and ******************************Pure substances.******************************
 
-![Untitled](Some%20Basics%20Concepts%20of%20Chemistry%2007423dc263a540859ec28e6df8e07c1e/Untitled.png)
-
+<img src="pic_source/Untitled.png">
 - ******************Mixture:******************  A mixture contain two or more pure substances which may be present in any ratio.
     
     eg- Sugar solution in water.
