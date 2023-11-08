@@ -37,7 +37,7 @@ S--->|Sublimation| G---> |Deposition|S
 
 At the macroscopic or bulk level, matter can be classified in as ****************mixture**************** and ******************************Pure substances.******************************
 
-<img src="pic_source/Untitled.png">
+![Alt](https://cdn.discordapp.com/attachments/1170953274384453702/1171855171920351242/Untitled.png?ex=655e322d&is=654bbd2d&hm=3c909e22aaa8c53e44418c37f8c593a9bf36a616f2cc1d977627b2d09dcb5b2f&)
 - ******************Mixture:******************  A mixture contain two or more pure substances which may be present in any ratio.
     
     eg- Sugar solution in water.
@@ -575,27 +575,27 @@ $$
     
     It a substance dissolve A dissolve in substance B and their number of moles are $n_A$ and $n_B$, respectively, then the mole fraction of A  and B are given as:
     
-    $$
-    \text{Mole fraction of A}= \frac{\text{No. of moles of A}}{\text{No. of moles of solutions}}
-    $$
     
-    $$
-    = \frac{n_A}{n_A + n_B}
-    $$
+   $$ \text{Mole fraction of A}= \frac{\text{No. of moles of A}}{\text{No. of moles of solutions}}$$
     
-    $$
-    \text{Mole fraction of B}= \frac{\text{No. of moles of B}}{\text{No. of moles of solutions}}
-    $$
     
-    $$
-    = \frac{n_B}{n_A + n_B}
-    $$
+    
+    $$= \frac{n_A}{n_A + n_B}$$
+    
+    
+    
+    $$\text{Mole fraction of B}= \frac{\text{No. of moles of B}}{\text{No. of moles of solutions}}$$
+    
+    
+    
+   $$ = \frac{n_B}{n_A + n_B}$$
+    
     
     1. ****************Molarity:**************** It is defined as the number of moles of solute in 1 litter of the solution.
     
-    $$
-    Molarity(M) = \frac{\text{No. of moles of solute}}{\text{Volume of solution in Liters}}
-    $$
+    
+    $$Molarity(M) = \frac{\text{No. of moles of solute}}{\text{Volume of solution in Liters}}$$
+    
     
     Note: **Molarity** of the solution depends upon temperature because volume of a solution is temperature dependent.
     
@@ -603,6 +603,6 @@ $$
         
         It is defines as the number of moles of solute present in 1 kg of solvent. It is denoted by ****m.****
         
-        $$
-        Molality(m) = \frac{\text{No. of moles of solute}}{\text{Mass of solvent in Kg}}
-        $$
+        
+        $$Molality(m) = \frac{\text{No. of moles of solute}}{\text{Mass of solvent in Kg}}$$
+        
