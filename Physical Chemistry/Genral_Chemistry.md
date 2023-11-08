@@ -567,16 +567,16 @@ The amount of substance is expresses when it is present in the solution. The con
 
 1. **************************Mass per cent**************************
 
-$$
-\text{Mass percent}= \frac{Mass\ Solute}{\text{Mass of solution}} \times 100
-$$
+
+$$\text{Mass percent}= \frac{Mass\ Solute}{\text{Mass of solution}} \times 100$$
+
 
 1. ********************Mole Fraction********************
     
     It a substance dissolve A dissolve in substance B and their number of moles are $n_A$ and $n_B$, respectively, then the mole fraction of A  and B are given as:
     
     
-   $$ \text{Mole fraction of A}= \frac{\text{No. of moles of A}}{\text{No. of moles of solutions}}$$
+   $$\text{Mole fraction of A}= \frac{\text{No. of moles of A}}{\text{No. of moles of solutions}}$$
     
     
     
@@ -588,7 +588,7 @@ $$
     
     
     
-   $$ = \frac{n_B}{n_A + n_B}$$
+   $$= \frac{n_B}{n_A + n_B}$$
     
     
     1. ****************Molarity:**************** It is defined as the number of moles of solute in 1 litter of the solution.
