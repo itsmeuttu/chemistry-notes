@@ -867,13 +867,13 @@ Maxwell Distribution of Molecular Speeds
     
     10. At very low Pressure
         
-        P $\approx$0 HTLP $\rightarrow$ ideal  (Z=1)
+        P $\approx$ 0 HTLP $\rightarrow$ ideal  (Z=1)
         
     11. At Intermediate Pressure
         
         attraction dominates
         
-        $V_m$ , real < $V_m$ , ideal (Z < 1)
+        $V_m$ , real <  $V_m$ , ideal (Z < 1)
         
     12. At high Pressure
         
@@ -883,7 +883,7 @@ Maxwell Distribution of Molecular Speeds
         
         Z > 1
         
-        ![Untitled](https://cdn.discordapp.com/attachments/1170953274384453702/1173103786038923365/Untitled_14.png?ex=6562bd09&is=65504809&hm=4710f0a795302bfff4a45eed5f09b4712e0660def13795442101e92984c75f18&)
+        ![Untied](https://cdn.discordapp.com/attachments/1170953274384453702/1173103786038923365/Untitled_14.png?ex=6562bd09&is=65504809&hm=4710f0a795302bfff4a45eed5f09b4712e0660def13795442101e92984c75f18&)
         
     
     Q. 
