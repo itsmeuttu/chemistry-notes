@@ -1,6 +1,6 @@
 # Gaseous State
 
-- Contents
+  
 
 ## Ideal gas Equation
 
@@ -27,9 +27,8 @@
 
 ### Gas:
 
-$$
-1.\ Ideal\ Gas: Intermolecular\ Force\ = 0\\2.\ Real \ gas: \ Intermolecular\ Force\ \neq 0
-$$
+1. Ideal  Gas: Intermolecular Force = 0
+2.  Real gas: Intermolecular Force $\neq 0$
 
 ### Variable that define nature of an ideal gas:
 
@@ -383,7 +382,7 @@ Now for ideal gas Laws:
 
 ![Untitled](https://cdn.discordapp.com/attachments/1170953274384453702/1173103639565443083/Untitled_9.png?ex=6562bce6&is=655047e6&hm=d4b6a182f4af5240f53352c7b35c073b1ad18e8693f3b40d5fbe5869a24743a4&)
 
-$\bull$ Charles’s Law: 
+- Charles’s Law: 
 
 Volume at 0 $\degree$C = $V_0$
 
@@ -406,10 +405,9 @@ $$
 Here we deal with **Moles**, **Volume**, **Pressure**, **Density,** and **Molar Mass.**  Temperature is discussed in Thermodynamics
 
 ### Properties:
+-  **Extensive**: A system that depends on the size or amount of the system, and which can be additive when systems are combined. eg: Mass, Volume, etc
 
-$\bullet$ **Extensive**: A system that depends on the size or amount of the system, and which can be additive when systems are combined. eg: Mass, Volume, etc
-
-$\bull$ **********************Intensive: A********************** substance or system that does not depend on the size or amount of the substance or system. They are not additive in nature
+- **********************Intensive: A********************** substance or system that does not depend on the size or amount of the substance or system. They are not additive in nature
 
 eg: Temperature, Pressure, etc 
 
@@ -644,7 +642,7 @@ V = Volume
 $$\large{\fbox{$mN = \text{Total Molecule of gas}$}}$$
 
 
-$$\LARGE{\colorbox{green}{$U_{mp}< U_{avg}< U_{rms}$}}$$
+$$\LARGE{U_{mp}< U_{avg}< U_{rms}}$$
 
 
 
@@ -662,9 +660,10 @@ R = 8.314  $JK^-mol^-$
 
 $U_{rms}$   in $ms^-$
 
-$$
-\large{\colorbox{green}{\text{Q. Calculate $U_{rms}$ for $O_2$ gas at 300K ?}}}
-$$
+Q. Calculate the $U_{rms}$ sped of $O_2$ gas  at  300K ?
+
+
+
 
 ## Kinetic Energy
 
@@ -695,7 +694,7 @@ Maxwell Distribution of Molecular Speeds
     
     $$\large{\fbox{$\mu_{mp}=\sqrt{\frac{2RT}{M}}$}}$$
     
-    $$\large{\colorbox{green}{$U_{mp} \propto\sqrt{\frac{T}{M}}$}}$$
+    $$\large{U_{mp} \propto\sqrt{\frac{T}{M}}}$$
     
     ### Area Under Maxwell Curve
     
@@ -778,7 +777,7 @@ Maxwell Distribution of Molecular Speeds
     3. $\large{U_{rms}= \sqrt{\frac{3RT}{M}}}$  
     
     $$
-    \LARGE{\colorbox{green}{$U_{mp}< U_{avg}< U_{rms}$}}
+    \LARGE{U_{mp}< U_{avg}< U_{rms}}
     $$
     
     Q. Calculate $U_{mp}$ for $O_2$ at 300K ?
@@ -797,23 +796,23 @@ Maxwell Distribution of Molecular Speeds
     
     ### Deviation of a real gas from ideal Behaviour
     
-    1. Permanent Polarity
+    4. Permanent Polarity
         
         Like $NH_3$  Polar $\mu$ $\neq 0$
         
         $C=O=C \rightarrow \mu \neq 0$
         
-    2. Instaneous Polarity
+    5. Instaneous Polarity
         
         $O=C=O$
         
         $O=C^+-O^-$
         
-    3. Surface Chemistry
+    6. Surface Chemistry
         
         size of molecule $\propto$  Real gas Behaviour show
         
-    4. Molar mass
+    7. Molar mass
         
         More molar mass $\propto$ Real gas behaviour
         
@@ -838,14 +837,14 @@ Maxwell Distribution of Molecular Speeds
     
     $V_m$ = Molar Volume
     
-    1. For Ideal gas
+    8. For Ideal gas
         
         $V_m$, real = $V_m$, ideal
         
         $$\fbox{$Z=1$}$$
         
         
-    2. For Real gas:
+    9. For Real gas:
         
         $V_m$, real > $V_m$, ideal 
         
@@ -866,17 +865,17 @@ Maxwell Distribution of Molecular Speeds
     
     ### Z v/s P curve
     
-    1. At very low Pressure
+    10. At very low Pressure
         
         P $\approx$0 HTLP $\rightarrow$ ideal  (Z=1)
         
-    2. At Intermediate Pressure
+    11. At Intermediate Pressure
         
         attraction dominates
         
         $V_m$ , real < $V_m$ , ideal (Z < 1)
         
-    3. At high Pressure
+    12. At high Pressure
         
         Repulsion dominates
         
@@ -1020,7 +1019,7 @@ and so on.
 
 $\Rightarrow$ The first Virial Coefficient is 
 
-$$\def\fo{V_m} Z = \frac{1}{\fo^0}+ \frac{B}{\fo^1}+ \frac{C}{\fo^2}$$
+![alt](https://cdn.discordapp.com/attachments/1170953274384453702/1173175066511548446/image.png?ex=6562ff6c&is=65508a6c&hm=ffce47466a7657cf6f0c023d284e64d70de9f119eedc8abf7db7e25d35b17d67&)
 
 $\Rightarrow$ B,C,D……. all are temperature dependent.
 
