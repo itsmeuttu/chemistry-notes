@@ -8,7 +8,7 @@ In this repository, you will find the following topic realted to chemistry
 
 - [Thermodynamics]()
 
-- [Chemical Equilibrium]()
+- [Chemical Equilibrium](Chemical_Equilibrium.md)
 
 - [Ionic Equilibrium]()
 
