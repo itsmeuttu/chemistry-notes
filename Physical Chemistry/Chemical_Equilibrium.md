@@ -33,8 +33,8 @@ The equilibrium state refers to a condition in a chemical reaction where the rat
 1. **Irreversible**
 ![Graph of Irreversible](https://cdn.discordapp.com/attachments/1170953274384453702/1173636731346636891/image.png?ex=6564ad61&is=65523861&hm=e2a8785b303bae6207ee4ebb715c8cafa6feb4ef7f350b19e3788a4c105ac326&)
  
- 2. **Reversible**  
-     ![Graph of Reversible](https://cdn.discordapp.com/attachments/1170953274384453702/1173638517633601597/image.png?ex=6564af0b&is=65523a0b&hm=882df824ca12806088a39da4e167c583c142f20c0240e36853b45a5448c9cb4f&)
+1. **Reversible**  
+![Graph of Reversible](https://cdn.discordapp.com/attachments/1170953274384453702/1173638517633601597/image.png?ex=6564af0b&is=65523a0b&hm=882df824ca12806088a39da4e167c583c142f20c0240e36853b45a5448c9cb4f&)
 
 
 ### Characterstics of Equilibrium
@@ -71,8 +71,13 @@ At Equilibrium $\to  r_f = r_b$
 $$k_f [A][B] = K_b[C][D]$$
 $$ K_{eq} = \frac{K_f}{k_b} = \frac{[C][D]}{[A][B]}$$
 
-$$\large\fbox{$K_{eq}= \frac{[C][D]}{[A][B]}$  }
+$$\large\fbox{$K_{eq}= \frac{[C][D]}{[A][B]}$  }$$
 
+eg: 
+1. $$\ce{2A + B <=> 3C + D}$$
+   $$\large k_{eq}= \frac{[C]^3[D]}{[A]^2[B]}$$
+2. $$\ce{N2(g) + 3H2(g) <=>2NH3(g)}$$
+   $$\large \ce{ K_{eq} = \frac{[NH3]^2}{[ N2][H2]^3}}$$
 
 
 
