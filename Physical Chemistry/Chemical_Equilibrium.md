@@ -137,7 +137,7 @@ When active mass is expressed in the term of concentration the equilibrium const
 
   $$K_x = \frac{X_A}{X_B}$$ 
 
-### Relation Between $K_p$ , $K_c$ and $K_x$
+### Relation Between Kp , Kc and Kx
 
 - **Relation Between $K_p$ and $K_c$**
   
@@ -147,7 +147,7 @@ When active mass is expressed in the term of concentration the equilibrium const
 - **Relation Between $K_p$ and $K_x$**
   $$\large K_p = K_x(P_T)^{\Delta ng}$$  
 
-- **Relation Between $Kc$ and $K_x$**
+- **Relation Between $K_c$ and $K_x$**
   $$\large K_c = K_x (\frac{P_T}{RT})^{\Delta ng}$$   
 
 
