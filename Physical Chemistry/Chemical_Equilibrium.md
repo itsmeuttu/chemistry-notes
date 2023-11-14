@@ -14,7 +14,7 @@ On the basic of nature
 ### Irreverisble Reaction:
 An irreversible reaction is a chemical reaction that proceeds in one direction only and cannot be easily reversed.  
 
-Eg : Combustion of Hydrocarbons  [![fire](https://cdn3.emoji.gg/emojis/fire.png)](https://emoji.gg/emoji/fire)
+Eg : Combustion of Hydrocarbons 
   
 $$\ce{CH4(g) + 2O2(g) -> CO2(g) + 2H20(l)}$$
 
@@ -32,9 +32,12 @@ The equilibrium state refers to a condition in a chemical reaction where the rat
 #### Graphs 
 
 1. **Irreversible**
+
+
 ![Graph of Irreversible](https://cdn.discordapp.com/attachments/1170953274384453702/1173636731346636891/image.png?ex=6564ad61&is=65523861&hm=e2a8785b303bae6207ee4ebb715c8cafa6feb4ef7f350b19e3788a4c105ac326&)
  
 1. **Reversible**  
+   
 ![Graph of Reversible](https://cdn.discordapp.com/attachments/1170953274384453702/1173638517633601597/image.png?ex=6564af0b&is=65523a0b&hm=882df824ca12806088a39da4e167c583c142f20c0240e36853b45a5448c9cb4f&)
 
 
@@ -79,6 +82,60 @@ eg:
    $$\large k_{eq}= \frac{[C]^3[D]}{[A]^2[B]}$$
 2. $$\ce{N2(g) + 3H2(g) <=>2NH3(g)}$$
    $$\large \ce{ K_{eq} = \frac{[NH3]^2}{[ N2][H2]^3}}$$
+
+
+### Active Mass:
+
+Mass which is active or mass which participate in Reaction.
+
+   (i) **Solute in Solution:**
+
+   Solute = Molar Concn = $\large\frac{\text{Moles}}{\text{Volume}}$ = $\large\frac{W/M}{V}$  
+
+   (ii) **For Gases:**
+
+   ```mermaid
+   flowchart TB
+   A[Gas] --> B[Molar Concn]
+   A --> C[Partial Pressure ]
+
+   
+   ```
+
+- Molar Concentration:  $\large \frac{n}{V}$ , $\large \frac{W/M}{V}$  
+  
+-  Partial Pressure:  P = CRT 
+  
+  (iii) Active Mass of Pure solid and Liquid as well as solvent in dilute solution is take as 1  
+
+### Types of Equilibrium Constant 
+
+- **$K_c$**  
+When active mass is expressed in the term of concentration the equilibrium constant expressed as $K_c$  
+
+  $\to$ It is defined for aqueous reaction and Gaseous reaction.  
+  eg:  
+  $$\ce{I2(aq) + I^-(aq) <=> I3^-(aq)}  $$
+  $$ K_c = \frac{[I_3^-]}{[I_2][I^-]}$$
+
+- **$K_p$**  
+  When active Mass is Expressed in the terms of pressure the equation contant expressed in $K_p$   
+  $\to$ Atleast one gas in reaction  
+  eg:
+  $$\ce{N2(g)+ 3H2(g) <=> 2NH3(g)}$$
+  $$K_p = \frac{(P_{NH_3})^2}{(P_{N_2})(P_{N_2})^3}$$
+
+- **$K_x$**  
+  When active mass is expressed interms of Mole fraction the equation constant is expressed in $K_x$
+
+  here , X = Mole fraction and K = conatant 
+
+  Partial Pressure = Mole fraction $\times$ Total Pressure 
+
+  eg:
+  $$ \ce{A(g) <=> B(g)}$$
+
+  $$K_x = \frac{X_A}{X_B} $$ 
 
 
 
