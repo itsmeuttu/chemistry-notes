@@ -116,7 +116,7 @@ When active mass is expressed in the term of concentration the equilibrium const
   $\to$ It is defined for aqueous reaction and Gaseous reaction.  
   eg:  
   $$\ce{I2(aq) + I^-(aq) <=> I3^-(aq)}  $$
-  $$ K_c = \frac{[I_3^-]}{[I_2][I^-]}$$
+  $$K_c = \frac{[I_3^-]}{[I_2][I^-]}$$
 
 - **$K_p$**  
   When active Mass is Expressed in the terms of pressure the equation contant expressed in $K_p$   
@@ -133,9 +133,27 @@ When active mass is expressed in the term of concentration the equilibrium const
   Partial Pressure = Mole fraction $\times$ Total Pressure 
 
   eg:
-  $$ \ce{A(g) <=> B(g)}$$
+  $$\ce{A(g) <=> B(g)}$$
 
-  $$K_x = \frac{X_A}{X_B} $$ 
+  $$K_x = \frac{X_A}{X_B}$$ 
+
+### Relation Between $K_p$ , $K_c$ and $K_x$
+
+- **Relation Between $K_p$ and $K_c$**
+  
+  $$\large K_p = K_c(RT)^{\Delta ng}$$   
+
+
+- **Relation Between $K_p$ and $K_x$**
+  $$\large K_p = K_x(P_T)^{\Delta ng}$$  
+
+- **Relation Between $Kc$ and $K_x$**
+  $$\large K_c = K_x (\frac{P_T}{RT})^{\Delta ng}$$   
+
+
+
+  
+  
 
 
 
