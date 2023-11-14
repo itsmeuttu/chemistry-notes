@@ -1,4 +1,5 @@
-# Chemical Equilibrium
+
+# Chemical Equilibrium 
 ```mermaid
 flowchart TB
 A[Equilibrium] --> B[Chemical Equilibrium]
@@ -13,7 +14,7 @@ On the basic of nature
 ### Irreverisble Reaction:
 An irreversible reaction is a chemical reaction that proceeds in one direction only and cannot be easily reversed.  
 
-Eg : Combustion of Hydrocarbons  
+Eg : Combustion of Hydrocarbons  [![fire](https://cdn3.emoji.gg/emojis/fire.png)](https://emoji.gg/emoji/fire)
   
 $$\ce{CH4(g) + 2O2(g) -> CO2(g) + 2H20(l)}$$
 
@@ -50,7 +51,7 @@ The equilibrium state refers to a condition in a chemical reaction where the rat
 Acc. to this , Rate of forward reaction is directly proptionl to product of active mass of Rectant and rate of backward reaction is directyl Proptional of Active mass of Product.  
 
 $$\ce{A + B <=> C + D }$$
-$$\ce{\text{Rectant}\  <=> \text{Product}}$$
+$$\ce{Rectant  <=> Product}$$
 
 Rectant :
 $$r_f \propto [A][B]$$ 
