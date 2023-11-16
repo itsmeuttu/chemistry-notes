@@ -150,6 +150,97 @@ When active mass is expressed in the term of concentration the equilibrium const
 - **Relation Between $K_c$ and $K_x$**
   $$\large K_c = K_x (\frac{P_T}{RT})^{\Delta ng}$$   
 
+### Unit of Kp and Kc
+
+- Unit of $K_p$ =  $(atm)^{\Delta ng}$  
+- Unit of $K_c$ =  $(mol/liter)^{\Delta ng}$
+- Unit of $K_P^{\circ }$ = Unitless [Divide by 1 atm]
+- Unit of $K_c^{\circ }$ = Unitless [Divide by 1 M]
+
+**Question:**  
+At What temperature $K_p$ and $K_c$ are Numerically same ?  
+**Sol**:   12 Kelvin
+
+### Charasterstics of Equilibrium Constant 
+
+(i) K is applicable only when concentration of rectant and prodict have attain their equilibrium value and does not change with time.  
+
+(ii) K is independent from initial concentration of rectant and product.  
+
+(iii) K is independent from chnage of pressure , volume , concentration, addition of catalyst. 
+
+(iv) A given reaction for a given stiochiometry has a unique of $K_{eq}$ at a particular temperature.  
+
+(v) "K" chnges only and only with temperature.  
+$$\Large \fbox{$\log \frac{K_{eq_2}}{K_{eq_1}} = \frac{\Delta H}{2.303 R}[\frac{1}{T_1}-\frac{1}{T_2}]$}$$
+
+(vi) On Reversing any reaction , its $K_{eq}$ constant will inverse.  
+eg:  
+$$ \ce{A <=> B} ,  =>    \large K_1  $$
+$$ \ce{B <=> A} ,  =>  \large K_2 $$
+$$\Large \fbox{ $K_2 = \frac{1}{K_1}$}$$   
+
+(vii) On Multiplying reaction by any number it equilibrium constant raised by power equl to that number.  
+eg:  
+$$ \ce{A <=> B} ,  =>    \large K_1  $$
+
+$$ \ce{2A <=> 2B} ,  =>  \large K_2 $$
+$$\Large \fbox{ $K_2 = [K_1]^2$}$$ 
+
+(Viii) On adding reaction their equilibrium constant will be multiplied.  
+eg:  
+$\ce{A <=> B}$  => $K_1$   
+$\ce{C <=> D}$  =>  $K_2$   
+$----------$   
+$\ce{A + C <=> B + D}$ =>  $K_3$   
+$---------$ 
+
+$$\Large \fbox{$K_3 = K_1 \times K_2$} $$
+
+### Application of Equilibrium Constant 
+
+- 1. Prediction of Directin of reaction
+- 2. Prediction of Extent of reaction (0 < x < 100)  
+- 3. Determination of concentration at Equilibrium.  
+
+#### 1. Prediction of Equilibrium Constant 
+   - **Reaction Quotient (Q)**  
+    It helps to Predict the direction of Reaction.  
+$$\ce{A + 2B <=> C + D}$$   
+$$ Q = \frac{[C][D]}{[A][B]^2}$$
+At any time variable can be calculate.  
+
+Q (Quotient) => Variable  it can be calculated.  
+$K_{eq}$  => Given Constant value (Maximum value): Only at equilibrium   
+
+| Condition | Direction |  
+| ---| ---|   
+| Q < $K_{eq}$ | Forward Direction |
+|Q > $K_{eq}$ | Backward direction | 
+| Q = $K_{eq}$ | At Equilibrium |  
+
+**Note** : When $\Delta ng$ is 0 then no need of Volume while finding concentration.  
+
+```mermaid 
+flowchart LR
+A[Keq]  --> B[Numerical Equilibrium]
+B --> C[Extent of reaction]
+B --> D[Stability of Rectant and Product]
+
+```
+| $K_{eq} < 10^{-3}$ | $10^{-3} < K_{eq} < 10^{3}$ | $K_{eq} > 10^{3}$ |   
+| ---| ---| ---| 
+
+
+
+
+
+
+
+
+
+
+
 
 
   
